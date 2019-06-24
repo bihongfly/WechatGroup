@@ -28,8 +28,10 @@ python WechatGroup.py
 #### 3.1 加入通讯录
 把要监听的群以及接收的群加入到微信通讯录，如下图所示：(**注意：两个群都加**)  
 
-![](images/WechatIMG1.jpeg)  
-![](images/WechatIMG2.jpeg)
+![](images/1.png)
+
+![](images/2.png)
+
 #### 3.2 执行脚本
 
 ```
@@ -38,7 +40,8 @@ python WechatGroup.py
 **扫描二维码确认登录**
 
 #### 3.3 实现效果
-**被监听群（src）**
-![](images/WechatIMG3.jpeg)  
-**接收群（dest）**
-![](images/WechatIMG4.jpeg)  
+**被监听群（src）:**  
+![](images/3.png)  
+
+**接收群（dest）:**  
+![](images/4.png)  
