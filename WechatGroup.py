@@ -48,5 +48,5 @@ def forward_media(msg):
             # itchat.send('@%s@%s' % ('img' if msg['Type'] == 'Picture' else 'fil', msg['FileName']),get_group(dest_room))
             os.remove(media_name)
 
-itchat.auto_login(hotReload=True)
+itchat.auto_login(hotReload=True,enableCmdQR=2)
 itchat.run()
